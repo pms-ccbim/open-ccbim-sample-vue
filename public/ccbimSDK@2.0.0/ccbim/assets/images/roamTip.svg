@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="485" viewBox="0 0 600 485">
+  <g id="组_74" data-name="组 74" transform="translate(-660 -292)">
+    <text id="前后左右" transform="translate(684 307)" fill="#333" font-size="14" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-weight="700"><tspan x="0" y="0">前后左右</tspan></text>
+    <g id="组_15" data-name="组 15" transform="translate(0 22)">
+      <g id="矩形_45" data-name="矩形 45" transform="translate(782 306)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_46" data-name="矩形 46" transform="translate(782 370)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_47" data-name="矩形 47" transform="translate(718 370)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_48" data-name="矩形 48" transform="translate(846 370)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <text id="W" transform="translate(798 337)" fill="#333" font-size="16" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">W</tspan></text>
+      <text id="A" transform="translate(737 401)" fill="#333" font-size="16" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">A</tspan></text>
+      <text id="S" transform="translate(802 401)" fill="#333" font-size="16" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">S</tspan></text>
+      <text id="D" transform="translate(864 401)" fill="#333" font-size="16" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">D</tspan></text>
+    </g>
+    <g id="组_16" data-name="组 16" transform="translate(61 22)">
+      <g id="矩形_49" data-name="矩形 49" transform="translate(1024 306)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_50" data-name="矩形 50" transform="translate(1024 370)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_51" data-name="矩形 51" transform="translate(960 370)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_52" data-name="矩形 52" transform="translate(1088 370)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <path id="上" d="M185.36,188.464h14.109c1.194,0,1.6-.834,1.033-1.816L193.559,175.2a1.172,1.172,0,0,0-2.177,0l-6.942,11.459a1.384,1.384,0,0,0-.261.834C184.066,188.053,184.539,188.464,185.36,188.464Z" transform="translate(855.839 148.536)" fill="#333"/>
+      <path id="上-2" data-name="上" d="M185.36,174.464h14.109c1.194,0,1.6.834,1.033,1.816l-6.942,11.446a1.172,1.172,0,0,1-2.177,0l-6.942-11.459a1.384,1.384,0,0,1-.261-.834C184.066,174.875,184.539,174.464,185.36,174.464Z" transform="translate(855.839 212.536)" fill="#333"/>
+      <path id="上-3" data-name="上" d="M185.36,188.464h14.109c1.194,0,1.6-.834,1.033-1.816L193.559,175.2a1.172,1.172,0,0,0-2.177,0l-6.942,11.459a1.384,1.384,0,0,0-.261.834C184.066,188.053,184.539,188.464,185.36,188.464Z" transform="translate(802.834 586.459) rotate(-90)" fill="#333"/>
+      <path id="上-4" data-name="上" d="M1.2,0H15.307c1.194,0,1.6.834,1.033,1.816L9.4,13.263a1.172,1.172,0,0,1-2.177,0L.278,1.8A1.384,1.384,0,0,1,.016.97C-.1.411.377,0,1.2,0Z" transform="translate(1105 402.595) rotate(-90)" fill="#333"/>
+    </g>
+    <text id="或者" transform="translate(946 436)" fill="#333" font-size="14" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">或者</tspan></text>
+    <line id="直线_17" data-name="直线 17" x2="600" transform="translate(660 472)" fill="none" stroke="#bdbdbd" stroke-width="1"/>
+    <text id="向上或者向下" transform="translate(684 502)" fill="#333" font-size="14" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-weight="700"><tspan x="0" y="0">向上或者向下</tspan></text>
+    <text id="调整速度" transform="translate(984 502)" fill="#333" font-size="14" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-weight="700"><tspan x="0" y="0">调整速度</tspan></text>
+    <g id="组_17" data-name="组 17" transform="translate(116 50)">
+      <g id="矩形_53" data-name="矩形 53" transform="translate(626 488)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_54" data-name="矩形 54" transform="translate(706 488)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <text id="Q" transform="translate(642 519)" fill="#333" font-size="16" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">Q</tspan></text>
+      <text id="E" transform="translate(726 519)" fill="#333" font-size="16" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">E</tspan></text>
+      <path id="上升_1_" data-name="上升 (1)" d="M210.584,82.115a1.3,1.3,0,0,0,0-1.84L200.05,69.744a1.157,1.157,0,0,0-1.636,0L187.883,80.275a1.3,1.3,0,0,0,1.84,1.841l8.208-8.207V100.1a1.3,1.3,0,1,0,2.6,0V73.909l8.206,8.206a1.3,1.3,0,0,0,1.844,0Z" transform="translate(399.498 426.595)" fill="#333"/>
+      <path id="上升_1_2" data-name="上升 (1)" d="M210.583,88.694a1.3,1.3,0,0,1,0,1.84L200.05,101.065a1.157,1.157,0,0,1-1.636,0L187.883,90.534a1.3,1.3,0,0,1,1.84-1.841l8.208,8.207V70.706a1.3,1.3,0,1,1,2.6,0V96.9l8.206-8.206a1.3,1.3,0,0,1,1.844,0Z" transform="translate(582.498 426.596)" fill="#333"/>
+    </g>
+    <g id="组_73" data-name="组 73">
+      <g id="矩形_55" data-name="矩形 55" transform="translate(1045 538)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <g id="矩形_56" data-name="矩形 56" transform="translate(1125 538)" fill="#fff" stroke="#333" stroke-width="2">
+        <rect width="48" height="48" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="3" fill="none"/>
+      </g>
+      <path id="减号" d="M179.491,476.84H165.379a.946.946,0,0,1-.994-.8c0-.445.5-.712.994-.712h14.112a.845.845,0,0,1,.894.712.913.913,0,0,1-.894.8Z" transform="translate(896.615 85.673)"/>
+      <path id="加号_2_" data-name="加号 (2)" d="M15.406,8.669h-6.7v-6.5a.751.751,0,0,0-.7-.7.773.773,0,0,0-.7.8v6.5H.806a.709.709,0,0,0-.8.7.751.751,0,0,0,.7.7h6.5v6.5c.1.4.4.8.8.8a.751.751,0,0,0,.7-.7v-6.6h6.6a.751.751,0,0,0,.7-.7c0-.3-.2-.8-.6-.8Z" transform="translate(1140.993 551.53)" fill="#333"/>
+    </g>
+    <line id="直线_18" data-name="直线 18" x2="600" transform="translate(660 618)" fill="none" stroke="#bdbdbd" stroke-width="1"/>
+    <text id="小地图快速定位" transform="translate(684 648)" fill="#333" font-size="14" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-weight="700"><tspan x="0" y="0">小地图快速定位</tspan></text>
+    <text id="环视" transform="translate(984 648)" fill="#333" font-size="14" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-weight="700"><tspan x="0" y="0">环视</tspan></text>
+    <text id="在右上方的小地图中双击鼠标左键" transform="translate(684 774)" fill="#333" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">在右上方的小地图中双击鼠标左键</tspan></text>
+    <g id="组_18" data-name="组 18" transform="translate(100 44)">
+      <path id="鼠标2" d="M291.616,159.66h18.27a20.8,20.8,0,0,0-18.27-19.842Zm-23.471,3.872v19.25a20.91,20.91,0,1,0,41.821,0l0-19.25Zm19.6-3.872V139.694a20.818,20.818,0,0,0-19.517,19.966Z" transform="translate(416.855 495.306)" fill="#e0e0e0"/>
+      <path id="鼠标2-2" data-name="鼠标2" d="M287.743,159.66V139.694a20.818,20.818,0,0,0-19.517,19.966Z" transform="translate(416.855 495.306)" fill="#333"/>
+    </g>
+    <g id="组_19" data-name="组 19" transform="translate(403 44)">
+      <path id="鼠标2-3" data-name="鼠标2" d="M291.616,159.66h18.27a20.8,20.8,0,0,0-18.27-19.842Zm-23.471,3.872v19.25a20.91,20.91,0,1,0,41.821,0l0-19.25Zm19.6-3.872V139.694a20.818,20.818,0,0,0-19.517,19.966Z" transform="translate(416.855 495.306)" fill="#e0e0e0"/>
+      <path id="鼠标2-4" data-name="鼠标2" d="M287.743,159.66V139.694a20.818,20.818,0,0,0-19.517,19.966Z" transform="translate(416.855 495.306)" fill="#333"/>
+    </g>
+    <path id="左右箭头" d="M44.174,428.678V420L50,424.339Zm-4.08-1.958h3.388v-4.809H40.094Zm-3.487,0H38.9v-4.809H36.607Zm-3.388,0h1.694v-4.809H33.219ZM2,424.339,7.826,420v8.678Zm9.911-2.428H8.522v4.809h3.388Zm3.487,0H13.106v4.809H15.4Zm3.384,0H17.087v4.809h1.694Z" transform="translate(1083 246)" fill="#333"/>
+    <text id="按住鼠标左键前后左右滑动" transform="translate(984 774)" fill="#333" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">按住鼠标左键前后左右滑动</tspan></text>
+  </g>
+</svg>
