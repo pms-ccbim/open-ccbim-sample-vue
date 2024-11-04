@@ -213,7 +213,10 @@ class UploadFile {
 
         if (policyVo.ossType === 1) {
           // 通过OSS方式上传
-          if (fileKey) {
+          if (!fileKey) {
+            // 创建一个fileKey
+            resultData.fileKey = fileItem.fileId + fileItem.format;
+
             if (fileItem.size > 120 * 100) {
               // 大文件上传
               let clientOss = this.partUploadOSS(
