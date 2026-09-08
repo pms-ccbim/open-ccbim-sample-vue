@@ -37,7 +37,7 @@
 import {
   CcbimSDKLoader,
   CcbimSDKLoaderConfig,
-} from "../../public/ccbimSDK@2.0.0/ccbimSdkLoader.umd.js";
+} from "../../public/ccbimSDK@3.5.0/ccbimSdkLoader.umd.js";
 
 import { viewTokenGetApi } from "@/services/fileApi.js";
 
@@ -92,4 +92,3 @@ export default {
   },
 };
 </script>
-
