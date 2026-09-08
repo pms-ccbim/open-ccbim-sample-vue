@@ -57,7 +57,7 @@ class UploadFile {
   // put上传(小文件上传)
   putUploadOSS(resultData, fileItem, onProgressCallback, successCallBack) {
     let callback = JSON.parse(
-      decodeURIComponent(atob(resultData.policyVo.callbackBody))
+      decodeURIComponent(atob(resultData.policyVo.callbackBody)),
     );
 
     const client = this.initOSS(resultData);
@@ -108,7 +108,7 @@ class UploadFile {
   // 分片上传
   partUploadOSS(resultData, fileItem, onProgressCallback, successCallBack) {
     let callback = JSON.parse(
-      decodeURIComponent(atob(resultData.policyVo.callbackBody))
+      decodeURIComponent(atob(resultData.policyVo.callbackBody)),
     );
 
     const client = this.initOSS(resultData);
@@ -166,7 +166,7 @@ class UploadFile {
     accessTokenHeader,
     files,
     onProgressCallback,
-    successCallBack
+    successCallBack,
   ) {
     debugger;
     if (files.length === 0) {
@@ -215,7 +215,8 @@ class UploadFile {
           // 通过OSS方式上传
           if (!fileKey) {
             // 创建一个fileKey
-            resultData.fileKey = fileItem.fileId + fileItem.format;
+            resultData.fileKey =
+              fileItem.filePolicyData.fileId + fileItem.format;
 
             if (fileItem.size > 120 * 100) {
               // 大文件上传
@@ -223,7 +224,7 @@ class UploadFile {
                 resultData,
                 fileItem,
                 onProgressCallback,
-                successCallBack
+                successCallBack,
               );
               this.ossMap.set(fileItem.md5, clientOss);
             } else {
@@ -232,7 +233,7 @@ class UploadFile {
                 resultData,
                 fileItem,
                 onProgressCallback,
-                successCallBack
+                successCallBack,
               );
               this.ossMap.set(fileItem.md5, clientOss);
             }
@@ -301,7 +302,7 @@ class UploadFile {
       fileObj.filePolicyData,
       fileItem,
       onProgressCallback,
-      successCallBack
+      successCallBack,
     );
   }
 }
